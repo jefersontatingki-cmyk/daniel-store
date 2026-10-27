@@ -1,1 +1,1 @@
-# daniel-store 
+# daniel-store  
